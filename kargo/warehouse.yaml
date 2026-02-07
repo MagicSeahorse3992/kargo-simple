@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/MagicSeahorse3992/guestbook
+      repoURL: ghcr.io/magicseahorse3992/guestbook
       imageSelectionStrategy: SemVer

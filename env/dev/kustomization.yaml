@@ -7,5 +7,5 @@ resources:
 namespace: guestbook-simple-dev
 
 images:
-- name: ghcr.io/MagicSeahorse3992/guestbook
+- name: ghcr.io/magicseahorse3992/guestbook
   newTag: v0.0.1
